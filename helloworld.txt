@@ -1,2 +1,6 @@
 hello world 
+My name is ashish what's ur name ??My name is ashish what's ur name ??<<<<<<< HEAD
 My name is ashish what's ur name ??
+=======
+My name is ashish , how you doing ?
+>>>>>>> newbranch
